@@ -1,0 +1,94 @@
+﻿c Unicode encoded for Eduria and Barasana revised in Keyman 8.0 Developer for Desktop 8 & 9
+c store(VERSION) '9.0'
+store(&VERSION) '9.0'
+store(&NAME) 'Eduria'
+store(&BITMAP) 'Eduria.bmp'
+store(&VISUALKEYBOARD) 'Eduria.kvk'
+store(&MESSAGE) 'Eduria is an Unicode encoded keyboard and may work for some folks that work with the Tucanoan Language family in the Vaupés, Colombia keyboards'
+store(&ETHNOLOGUECODE) 'bsn'
+store(&KEYBOARDVERSION) '9'
+store(&COPYRIGHT) '©'
+store(&TARGETS) 'any windows macosx linux web iphone ipad androidphone androidtablet mobile desktop tablet'
+
+begin Unicode > use(main)
+
+
+group (main) using keys  
+c Punctuation 
+'?' + '?' > '¿'   c U+00BF   inverted question mark
+'!' + '!' > '¡'   c U+00A1   inverted exclamation mark
+'' + '<' > '‘'    c U+2018   right pointing single quote mark
+'' + '>' > '’'    c U+2019   left pointing single quote mark
+'‘' + '<' > '“'   c U+201C   right pointing double quote marks
+'’' + '>' > '”'   c U+201D   left pointing double quote marks
+'/' + '<' > '«'   c U+00AB   left pointing double angle quotation mark   
+'/' + '>' > '»'   c U+00BB   right pointing double angle quotation mark
+'\' + ']' > ']'   c U+005C   right square bracket
+'{' + '{' > '}'   c U+007B   right curly bracket
+'|' + '<' > '<'   c U+007C   left pointing wedge
+'|' + '>' > '>'   c U+007C + 003E  right pointing wedge
+'=' + '=' > '—'   c U+2014    M—dash  
+'-' + '-' > '–'   c U+2013    N-dash
+';' + ';' > 'ˈ'   c U+02C8   light glottal  
+
+c Special Capital Vowel
+'' + '}' > 'Ʉ'      c U+0244
+c Special Lower case vowel
+'' + ']' > 'ʉ'      c U+0289
+
+c Acute Accented Vowels
+";" + "A" > 'Á'     c U+00C1
+";" + 'E' > 'É'     c U+00C9
+";" + 'I' > 'Í'     c U+00CD
+";" + 'O' > 'Ó'     c U+00D3
+";" + "U" > "Ú"     c U+00DA   
+";" + '}' > 'Ʉ́'     c U+0244 + 0301
+
+c Acute Accented Lower case Vowels
+";" + 'a' > 'á'     c U+00E1
+";" + 'e' > 'é'     c U+00E9
+";" + 'i' > 'í'     c U+00ED
+";" + 'o' > 'ó'     c U+00F3 
+";" + 'u' > 'ú'     c U+00FA
+";" + ']' > 'ʉ́'     c U+0289 + 0301
+
+c Nasalized Vowels  c Capitals
+'[' + 'A' > 'Ã'     c U+00C3
+'[' + 'E' > 'Ẽ'     c U+1EBC
+'[' + 'I' > 'Ĩ'     c U+0128
+'[' + 'O' > 'Õ'     c U+00D5
+'[' + 'U' > 'Ũ'     c U+0168
+'[' + '}' > 'Ʉ̃'     c U+0244 Ʉ + 0303 combining tilde
+
+c Nasalized Lower case Vowels
+'[' + 'a' > 'ã'    c U+00E3
+'[' + 'e' > 'ẽ'    c U+1EBD
+'[' + 'i' > 'ĩ'    c U+0129
+'[' + 'o' > 'õ'    c U+00F5
+'[' + 'u' > 'ũ'    c U+0169 (nasalized u)
+'[' + ']' > 'ʉ̃'    c ʉ̃    U+0289 followed by U+030 combining tilde
+
+c Spanish eñe
+'{' + 'N' > 'Ñ'   c Capital
+'[' + 'n' > 'ñ'   c Lower case U+00F1
+
+c Spanish diaeresis 
+':' + 'U' > 'Ü'    c Capital U+00DC
+':' + 'u' > 'ü'    c Lower case U+00FC
+ 
+
+c Acute Accented Capital Nasalized Vowels  
+'{' + 'A' > 'Ã́'    c VOWEL + U+0303  + 0301
+'{' + 'E' > 'Ẽ́ '   c Ẽ́   E + 0303  + 0301
+'{' + 'I' > 'Ĩ́'
+'{' + 'O' > 'Ṍ'
+'{' + 'U' > 'Ṹ' 
+'{' + '}' > 'Ʉ̃́'         c U+0244 Ʉ + 0301 +
+
+c Acute Accented Lower case Nasalized Vowels  
+'{' + 'a' > 'ã́'   c vowel U+0303(combining tilde) + 0301(combining accute accent)                      
+'{' + 'e' > 'ẽ́'   c nasalized vowel (e 1EBD) + 0301(combining acute accent)   
+'{' + 'i' > 'ĩ́'
+'{' + 'o' > 'ṍ'
+'{' + 'u' > 'ṹ'
+'{' + ']' > 'ʉ̃́'                                                  
