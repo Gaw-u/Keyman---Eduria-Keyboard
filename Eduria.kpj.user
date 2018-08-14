@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KeymanDeveloperProjectUser>
+  <templatepath>C:\Program Files (x86)\Tavultesoft\Keyman Developer 9.0\xml\project\</templatepath>
+  <stringspath>C:\Program Files (x86)\Tavultesoft\Keyman Developer 9.0\xml\project\</stringspath>
+  <state>&lt;state&gt;&lt;tab&gt;1&lt;/tab&gt;&lt;showhelp&gt;1&lt;/showhelp&gt;&lt;file ID="id_MRU0" Expanded="1"/&gt;&lt;file ID="id_MRU1" Expanded="1"/&gt;&lt;file ID="id_131a6e12835a3f9f34ccb5d858e41e92" Expanded="1"/&gt;&lt;/state&gt;</state>
+  <Modules/>
+  <FileStates>
+    <FileState>
+      <ID>id_aa1b03711eccccc5783795a1e64ead5b</ID>
+      <FullPath>C:\Users\Wen\Documents\Computer WJ\Keyboards\Keyboard\Eduria U\Eduria.kmn</FullPath>
+      <IDEState>
+        <LayoutDisplay102Key>0</LayoutDisplay102Key>
+        <DebugDefaultFont>1</DebugDefaultFont>
+        <DebugFont>Courier New|12|   |0</DebugFont>
+        <CodeFont>Courier New|12|   |0</CodeFont>
+        <CharFont>Courier New|12|   |0</CharFont>
+      </IDEState>
+      <Debug>True</Debug>
+    </FileState>
+    <FileState>
+      <ID>id_9979317773e22f0b3073a02e1460d289</ID>
+      <FullPath>C:\Users\Wen\Documents\Computer WJ\Keyboards\Keyboard\Eduria U\Wiwa\Wiwa 2 after wiwa for Julian\Wiwa_esp.kmn</FullPath>
+      <IDEState>
+        <LayoutDisplay102Key>0</LayoutDisplay102Key>
+        <DebugDefaultFont>1</DebugDefaultFont>
+        <DebugFont>Courier New|12|   |0</DebugFont>
+        <CodeFont>Courier New|12|   |0</CodeFont>
+        <CharFont>Courier New|12|   |0</CharFont>
+      </IDEState>
+      <Debug>False</Debug>
+    </FileState>
+    <FileState>
+      <ID>id_131a6e12835a3f9f34ccb5d858e41e92</ID>
+      <FullPath>C:\Camsa Keyman\Camsa vs9.kmn</FullPath>
+      <IDEState>
+        <LayoutDisplay102Key>0</LayoutDisplay102Key>
+        <DebugDefaultFont>1</DebugDefaultFont>
+        <DebugFont>Courier New|12|   |0</DebugFont>
+        <CodeFont>Courier New|12|   |0</CodeFont>
+        <CharFont>Courier New|12|   |0</CharFont>
+      </IDEState>
+      <Debug>False</Debug>
+    </FileState>
+    <FileState>
+      <ID>id_3d013547cd8025bdab2894d41fb53d59</ID>
+      <FullPath>C:\Users\Wen\Documents\Computer WJ\Keyboards\Keyboard\Eduria U\Cacua for 2017jun\Cacua U.kmn</FullPath>
+      <IDEState>
+        <LayoutDisplay102Key>0</LayoutDisplay102Key>
+        <DebugDefaultFont>1</DebugDefaultFont>
+        <DebugFont>Courier New|12|   |0</DebugFont>
+        <CodeFont>Courier New|12|   |0</CodeFont>
+        <CharFont>Courier New|12|   |0</CharFont>
+      </IDEState>
+      <Debug>False</Debug>
+    </FileState>
+    <FileState>
+      <ID>id_7b54628b736a34af388decd9ba506fcc</ID>
+      <FullPath>C:\Users\Wen\Documents\Computer WJ\Keyboards\Keyboard\Eduria U\Cacua for 2017jun\CACUA U.ICO</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_44fdb1b5abb9580cbb9f8d3231ed7541</ID>
+      <FullPath>C:\Users\Wen\Documents\Computer WJ\Keyboards\Keyboard\Eduria U\Wiwa\Wiwa 2 after wiwa for Julian\Wiwa_esp.bmp</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_d22ea321a97e65bcb12dab03184fd624</ID>
+      <FullPath>C:\Users\Wen\Documents\Computer WJ\Keyboards\Keyboard\Eduria U\Eduria 9Esp.bmp</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_bb221672493a5d3030ca3cd07dd2b071</ID>
+      <FullPath>C:\Camsa Keyman\Camsa.bmp</FullPath>
+    </FileState>
+  </FileStates>
+  <MRU>
+    <File>
+      <ID>id_MRU0</ID>
+      <Filename>Eduria.kps</Filename>
+      <FileType>.kps</FileType>
+      <FullPath>C:\Users\Wen\Documents\Computer WJ\Keyboards\Keyboard\Eduria U\Eduria.kps</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU1</ID>
+      <Filename>Eduria.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>C:\Users\Wen\Documents\Computer WJ\Keyboards\Keyboard\Eduria U\Eduria.kmn</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU2</ID>
+      <Filename>Catio2018.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>C:\Users\Wen\Documents\Computer WJ\Keyboards\Keyboard\Catio para Delcy y Claudia\Catio2018.kmn</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU3</ID>
+      <Filename>Catio Unicode.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>C:\Users\Wen\Documents\Computer WJ\Keyboards\Keyboard\Catio para Delcy y Claudia\Catio Unicode.kmn</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU4</ID>
+      <Filename>Catio 2014oct mnemonic.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>C:\Users\Wen\Documents\Computer WJ\Keyboards\Keyboard\Catio mnemonic 2014oct10\Catio 2014oct mnemonic.kmn</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU5</ID>
+      <Filename>Catio special characters.txt</Filename>
+      <FileType>.txt</FileType>
+      <FullPath>C:\Users\Wen\Documents\Computer WJ\Keyboards\Keyboard\Catio mnemonic 2014oct10\Catio special characters.txt</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU6</ID>
+      <Filename>Wiwa_esp.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>C:\Users\Wen\Documents\Computer WJ\Keyboards\Keyboard\Eduria U\Wiwa\Wiwa 2 after wiwa for Julian\Wiwa_esp.kmn</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU7</ID>
+      <Filename>Cacua U.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>C:\Users\Wen\Documents\Computer WJ\Keyboards\Keyboard\Eduria U\Teclado Keyman9 Cacua 2018jun\Cacua U.kmn</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU8</ID>
+      <Filename>Camsa.bmp</Filename>
+      <FileType>.bmp</FileType>
+      <FullPath>C:\Users\Wen\Documents\Camsa Keyman\Camsa.bmp</FullPath>
+    </File>
+  </MRU>
+</KeymanDeveloperProjectUser>

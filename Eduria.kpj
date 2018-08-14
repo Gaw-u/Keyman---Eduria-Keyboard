@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KeymanDeveloperProject>
+  <Options>
+    <BuildPath></BuildPath>
+    <CompilerWarningsAsErrors>False</CompilerWarningsAsErrors>
+    <WarnDeprecatedCode>True</WarnDeprecatedCode>
+  </Options>
+  <Files>
+    <File>
+      <ID>id_aa1b03711eccccc5783795a1e64ead5b</ID>
+      <Filename>Eduria.kmn</Filename>
+      <Filepath>Eduria.kmn</Filepath>
+      <FileVersion>9</FileVersion>
+      <FileType>.kmn</FileType>
+      <Details>
+        <Name>Eduria</Name>
+        <Copyright>©</Copyright>
+        <Message>Eduria is an Unicode encoded keyboard and may work for some folks that work with the Tucanoan Language family in the Vaupés, Colombia keyboards</Message>
+      </Details>
+    </File>
+    <File>
+      <ID>id_9979317773e22f0b3073a02e1460d289</ID>
+      <Filename>Wiwa_esp.kmn</Filename>
+      <Filepath>Wiwa\Wiwa 2 after wiwa for Julian\Wiwa_esp.kmn</Filepath>
+      <FileVersion>1.0</FileVersion>
+      <FileType>.kmn</FileType>
+      <Details/>
+    </File>
+    <File>
+      <ID>id_131a6e12835a3f9f34ccb5d858e41e92</ID>
+      <Filename>Camsa vs9.kmn</Filename>
+      <Filepath>..\..\..\..\..\..\..\Camsa Keyman\Camsa vs9.kmn</Filepath>
+      <FileVersion>1.0</FileVersion>
+      <FileType>.kmn</FileType>
+      <Details>
+        <Name>Camsa vs9</Name>
+        <Message>For Windows 10, not sure about Windows 7</Message>
+      </Details>
+    </File>
+    <File>
+      <ID>id_3d013547cd8025bdab2894d41fb53d59</ID>
+      <Filename>Cacua U.kmn</Filename>
+      <Filepath>Cacua for 2017jun\Cacua U.kmn</Filepath>
+      <FileVersion>1.0</FileVersion>
+      <FileType>.kmn</FileType>
+      <Details/>
+    </File>
+    <File>
+      <ID>id_7b54628b736a34af388decd9ba506fcc</ID>
+      <Filename>CACUA U.ICO</Filename>
+      <Filepath>Cacua for 2017jun\CACUA U.ICO</Filepath>
+      <FileVersion></FileVersion>
+      <FileType>.ICO</FileType>
+      <ParentFileID>id_3d013547cd8025bdab2894d41fb53d59</ParentFileID>
+    </File>
+    <File>
+      <ID>id_44fdb1b5abb9580cbb9f8d3231ed7541</ID>
+      <Filename>Wiwa_esp.bmp</Filename>
+      <Filepath>Wiwa\Wiwa 2 after wiwa for Julian\Wiwa_esp.bmp</Filepath>
+      <FileVersion></FileVersion>
+      <FileType>.bmp</FileType>
+      <ParentFileID>id_9979317773e22f0b3073a02e1460d289</ParentFileID>
+    </File>
+    <File>
+      <ID>id_d22ea321a97e65bcb12dab03184fd624</ID>
+      <Filename>Eduria 9Esp.bmp</Filename>
+      <Filepath>Eduria 9Esp.bmp</Filepath>
+      <FileVersion></FileVersion>
+      <FileType>.bmp</FileType>
+      <ParentFileID>id_aa1b03711eccccc5783795a1e64ead5b</ParentFileID>
+    </File>
+    <File>
+      <ID>id_bb221672493a5d3030ca3cd07dd2b071</ID>
+      <Filename>Camsa.bmp</Filename>
+      <Filepath>..\..\..\..\..\..\..\Camsa Keyman\Camsa.bmp</Filepath>
+      <FileVersion></FileVersion>
+      <FileType>.bmp</FileType>
+      <ParentFileID>id_131a6e12835a3f9f34ccb5d858e41e92</ParentFileID>
+    </File>
+  </Files>
+</KeymanDeveloperProject>
