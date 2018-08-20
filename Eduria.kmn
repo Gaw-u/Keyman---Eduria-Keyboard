@@ -9,8 +9,8 @@ store(&ETHNOLOGUECODE) 'bsn'
 store(&KEYBOARDVERSION) '9'
 store(&COPYRIGHT) '©'
 store(&TARGETS) 'any windows macosx linux web iphone ipad androidphone androidtablet mobile desktop tablet'
-store(&WINDOWSLANGUAGES) 'x0409'
 store(&LANGUAGE) 'x0409'
+store(&WINDOWSLANGUAGES) 'x0409'
 
 begin Unicode > use(main)
 

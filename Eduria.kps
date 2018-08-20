@@ -6,6 +6,8 @@
   </System>
   <Options>
     <ExecuteProgram></ExecuteProgram>
+    <ReadMeFile>Readme.txt</ReadMeFile>
+    <GraphicFile>Eduria.bmp</GraphicFile>
     <MSIFileName></MSIFileName>
     <MSIOptions></MSIOptions>
   </Options>
@@ -15,8 +17,10 @@
   </StartMenu>
   <Info>
     <Version URL="">9</Version>
-    <Name URL="">Eduria</Name>
+    <Name URL="">Eduria y algunos otros idiomas en Colombia</Name>
     <Copyright URL="">©</Copyright>
+    <Author URL="mailto:wendell_jones@sil..org">Wen Jones</Author>
+    <WebSite URL="https://keyman.com">https://keyman.com</WebSite>
   </Info>
   <Files>
     <File>
@@ -38,8 +42,8 @@
       <FileType>.js</FileType>
     </File>
     <File>
-      <Name>Readme Eduria.txt</Name>
-      <Description>File Readme Eduria.txt</Description>
+      <Name>Readme.txt</Name>
+      <Description>File Readme.txt</Description>
       <CopyLocation>0</CopyLocation>
       <FileType>.txt</FileType>
     </File>
@@ -50,16 +54,34 @@
       <FileType>.bmp</FileType>
     </File>
     <File>
-      <Name>Eduria-.json</Name>
-      <Description>File Eduria-.json</Description>
+      <Name>..\..\..\Fonts\Charis 5000 unzipped\CharisSIL-B.ttf</Name>
+      <Description>Font Charis SIL Bold</Description>
       <CopyLocation>0</CopyLocation>
-      <FileType>.json</FileType>
+      <FileType>.ttf</FileType>
     </File>
     <File>
-      <Name>eduria-9.json</Name>
-      <Description>File eduria-9.json</Description>
+      <Name>..\..\..\Fonts\Charis 5000 unzipped\CharisSIL-BI.ttf</Name>
+      <Description>Font Charis SIL Bold Italic</Description>
       <CopyLocation>0</CopyLocation>
-      <FileType>.json</FileType>
+      <FileType>.ttf</FileType>
+    </File>
+    <File>
+      <Name>..\..\..\Fonts\Charis 5000 unzipped\CharisSIL-I.ttf</Name>
+      <Description>Font Charis SIL Italic</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.ttf</FileType>
+    </File>
+    <File>
+      <Name>..\..\..\Fonts\Charis 5000 unzipped\CharisSIL-R.ttf</Name>
+      <Description>Font Charis SIL</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.ttf</FileType>
+    </File>
+    <File>
+      <Name>Eduria.html</Name>
+      <Description>File Eduria.html</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.html</FileType>
     </File>
   </Files>
   <Keyboards>
