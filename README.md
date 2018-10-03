@@ -1,5 +1,5 @@
 # Keyman---Eduria-Keyboard
-Keyman Eduria Keyboard for some in Vaupés, Colombia
+Keyman Eduria Keyboard for some in languages in Vaupés, Colombia
 English keyboard keys:
 One key on English keyboard plus (+) another key if necessary = (converts to) key desired key
 Punctuation 
